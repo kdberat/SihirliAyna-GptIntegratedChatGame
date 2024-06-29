@@ -17,6 +17,12 @@ Clone the repository:
    git clone https://github.com/kdberat/SihiriAyna-GptIntegratedChatGame.git
    ```
 
+Download this asset:
+   ```bash
+   **link**
+   ```
+After this you should add it content folder.
+
 ## Features
 
 - Users can interact with historical figures through 3D models.
