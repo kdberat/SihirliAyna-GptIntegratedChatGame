@@ -21,7 +21,7 @@ Download this asset:
    ```bash
    **link**
    ```
-After this you should add it content folder.
+After this, you should add it ..\SihirliAyna_GPT\Content
 
 ## Features
 
