@@ -19,7 +19,7 @@ Clone the repository:
 
 Download this asset:
    ```bash
-   **link**
+   https://mega.nz/file/BrcWhCqQ#aMV86E5svKAOxU8dxPLNhxs5EEBq8DJW5hTPiCm-1xM
    ```
 After this, you should add it ..\SihirliAyna_GPT\Content
 
